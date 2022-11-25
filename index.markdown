@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Welcome to the Nifty Tree Studios website. An alias for Iiro Alhonen used for publishing and developing independent iOS apps.
+Welcome to the Nifty Tree Studios website. An alias for [Iiro Alhonen](https://www.iiroalhonen.com) used for publishing and developing independent iOS apps.
